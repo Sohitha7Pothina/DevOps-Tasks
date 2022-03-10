@@ -4,3 +4,5 @@ Now connect your git with remote repository
 1. Created local repository
 2. Created remote repository
 3. Connected git with github
+
+Task completed
