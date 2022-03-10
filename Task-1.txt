@@ -1,0 +1,2 @@
+To creat a local repository and a remote repository
+Now connect your git with remote repository
