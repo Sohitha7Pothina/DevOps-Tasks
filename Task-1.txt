@@ -1,4 +1,6 @@
 To creat a local repository and a remote repository
 Now connect your git with remote repository
 
-created local repository
+1. Created local repository
+2. Created remote repository
+3. Connected git with github
